@@ -12,7 +12,7 @@ Check out the live demo at [elfekky.site](https://elfekky.site)
 
 ## 👨‍💻 Developer & Project Context
 
-This project was developed by [Mtarif](https://mtarif.com) strictly for a client. 
+This project was developed by [Mtarif](https://mtarif.com) for a client. 
 
 For work inquiries or contact:
 - **Website**: [www.mtarif.com](https://www.mtarif.com)
@@ -105,7 +105,7 @@ elfekky-portfolio/
 
 ## 📄 License & Credits
 
-This project was developed by [Mtarif](https://mtarif.com) strictly for a client and is proprietary.
+This project was developed by [Mtarif](https://mtarif.com) for a client and is proprietary.
 
 - **Developer**: [Mtarif](https://mtarif.com) (Contact for work at [www.mtarif.com](https://www.mtarif.com))
 - **Client / Owner**: Elfekky
