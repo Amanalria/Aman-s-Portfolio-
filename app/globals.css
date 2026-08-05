@@ -1,3 +1,6 @@
+canvas {
+  touch-action: pan-y !important;
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
