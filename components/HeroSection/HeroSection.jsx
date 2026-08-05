@@ -210,25 +210,27 @@ const HeroSection = () => {
           Each layer's `data-depth` controls how much it moves with the cursor. */}
       <div id="hero-section" ref={sectionRef}>
         {/* Animated fluid background. Not a `.hero-layer` so parallax-js skips it. */}
-        <div id="hero-bg-fluid">
-          <LiquidEther
-            colors={HERO_LIQUID_COLORS}
-            mouseForce={20}
-            cursorSize={100}
-            isViscous={false}
-            viscous={30}
-            iterationsViscous={32}
-            iterationsPoisson={32}
-            resolution={0.5}
-            isBounce={false}
-            autoDemo={true}
-            autoSpeed={0.5}
-            autoIntensity={2.2}
-            takeoverDuration={0.25}
-            autoResumeDelay={3000}
-            autoRampDuration={0.6}
-          />
-        </div>
+{/* 
+<div id="hero-bg-fluid">
+  <LiquidEther
+    colors={HERO_LIQUID_COLORS}
+    mouseForce={20}
+    cursorSize={100}
+    isViscous={false}
+    viscous={30}
+    iterationsViscous={32}
+    iterationsPoisson={32}
+    resolution={0.5}
+    isBounce={false}
+    autoDemo={true}
+    autoSpeed={0.5}
+    autoIntensity={2.2}
+    takeoverDuration={0.25}
+    autoResumeDelay={3000}
+    autoRampDuration={0.6}
+  />
+</div>
+*/}
 
         {/* Back stroke (behind heading) */}
         <div className="hero-layer" data-depth="0.20" style={{ zIndex: 4 }}>
